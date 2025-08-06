@@ -1541,6 +1541,19 @@ section.event-outer .inner .body .event .activities .activity > .details a.link:
     background-color: var(--button-background-primary);
 }
 
+/* Tambahan */
+.tombol{
+    display: inline-block;
+    background-color: var(--button-background-secondary);
+    color: var(--button-text-secondary);
+    font-family: var(--body-text-family);
+    font-size: var(--body-text-size);
+    padding: 8px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.25s ease-in-out;    
+}
+
 
 
 
