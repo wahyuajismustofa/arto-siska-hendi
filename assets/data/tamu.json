@@ -1,5 +1,5 @@
 {
-  "updated": "31/8/2025, 18.22.10",
+  "updated": "31/8/2025, 23.24.21",
   "tamu": [
     {
       "nama": "Bayu",
@@ -7,6 +7,13 @@
       "pesan": "",
       "kehadiran": "Tidak Hadir",
       "acara": "Tidak memilih acara"
+    },
+    {
+      "nama": "Rofi",
+      "waktu-pesan": "2025-08-31T16:24:00.000Z",
+      "pesan": "Selamat menempuh hidup baru semoga sakinah mawadah warahmah ",
+      "kehadiran": "",
+      "acara": ""
     }
   ]
 }
