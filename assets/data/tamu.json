@@ -1,5 +1,5 @@
 {
-  "updated": "2/9/2025, 15.27.36",
+  "updated": "9/9/2025, 21.11.24",
   "tamu": [
     {
       "nama": "Bayu",
@@ -28,6 +28,13 @@
       "pesan": "",
       "kehadiran": "Hadir",
       "acara": "Akad Nikah"
+    },
+    {
+      "nama": "Danu",
+      "waktu-pesan": "",
+      "pesan": "",
+      "kehadiran": "Tidak Hadir",
+      "acara": "Tidak memilih acara"
     }
   ]
 }
